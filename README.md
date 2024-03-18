@@ -9,4 +9,5 @@ cd solo_project
 program run
 
 
+![image](https://github.com/simizzang/new_project/assets/162389150/35880f89-d8bd-4138-83d7-e3a0dc2056e8)
 
